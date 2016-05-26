@@ -11,9 +11,10 @@
     var paragraphs = [];
     
     //data for my pages
-    paragraphs[0] = "This is my 1 paragraph. It is only visiable on 1 page";
-    paragraphs[1] = "This is my 2 paragraph. It is only visiable on 2 page";
-    paragraphs[2] = "This is my 3 paragraph. It is only visiable on 3 page";
+    paragraphs[0] = "My contacts: tetiana.reznychenko@outlook.com";
+    paragraphs[1] = "The largest project, in which I was envolved, was the replacement of the cement production technology at one of the Ukrainian plants. Also I am an author of few published articles about investitions and one detective novel";
+    paragraphs[2] = "Hi, I am Tetiana. I am a student of Centennial College. My program is Software Engineering Technician. I am from Ukraine. I am 23 years old. Previously I studied at Kiev National Economic University. I have a Master degree in Economics and I worked in a transport company for few years as a Project manager.";
+
     
     // check to see if paragraph one exists
     if (paragraphOne){
