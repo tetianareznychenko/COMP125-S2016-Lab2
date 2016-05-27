@@ -1,19 +1,19 @@
 /* custom css goes here */
 .navbar {
 
-    background-color: #008000;
-    background-image: none;
+    background-color: #330066;
+    background-image:  linear-gradient(#0c001a, #c999ff);
 }
    
 
 h1{
-	text-shadow:0.5px 0.5px 0.5px #00331f;
+	text-shadow:0.5px 0.5px 0.5px;
     text-align:center; 
-    color:#003311; 
+    color:#0c001a;
 }
 
 body{
-	 background: #ccffcc;
+	 background:  #f2e6ff; 
 	 color: #0d0d0d; 	
 	 font-weight:bold;
      font-size:16px; 
